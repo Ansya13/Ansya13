@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Anna
 
+![](https://komarev.com/ghpvc/?username=Ansya13)
+
 ## I'm a FrontEnd Developer, trainee...
 - 💪 I like to write code
 - 🎉 I love to travel and spent time with my family 👨‍👩‍👧
@@ -7,8 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com/Ansya13" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="github.com/Ansya13" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 [<img align="left" alt="AnnaLavrinchuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnnaLavrinchuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
 
 <br />
 
@@ -39,5 +42,6 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ansya13&show_icons=true" />
 </details>
 
-[website]: https://github.com/Ansya13
+[github]: https://github.com/Ansya13
 [linkedin]: https://www.linkedin.com/in/annalavrinchuk/
+[email]: mailto:lavrinchuk@yahoo.com
